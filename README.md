@@ -1,1 +1,1 @@
-If you need help useing the game what you do is download the file that is on this repository go to scratch then make a new project Click File > Load from your computer then select the file here lastly have fun
+If you need help useing the game what you do is download the file that is on this repository that isn't this one it is a .sb3 file go to scratch then make a new project Click File > Load from your computer then select the file here lastly have fun
